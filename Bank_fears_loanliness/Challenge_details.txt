@@ -1,0 +1,8 @@
+The dataset can be found at https://www.hackerearth.com/problem/machine-learning/bank-fears-loanliness/
+
+References
+https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
+
+https://www.kaggle.com/pmarcelino/house-prices-advanced-regression-techniques/comprehensive-data-exploration-with-python
+
+http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
